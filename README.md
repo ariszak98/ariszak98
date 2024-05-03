@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ariszak98
 - 👀 I’m interested in PHP and web development in general.
 - 🌱 I’m currently learning Laravel and Blade.
-- 📫 How to reach me: Email me at ariszak (at) icloud.com
+- 📫 How to reach me: ariszak (at) icloud.com
 - ⚡ Fun fact: Did you know that SQL's prior name was SEQUEL? 
 
 <!---
